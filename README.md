@@ -1,4 +1,4 @@
-# App Policies
+# App policies
 
 This repository contains publicly available privacy policies and legal information for my mobile applications.
 
