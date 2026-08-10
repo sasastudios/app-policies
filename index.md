@@ -13,5 +13,5 @@ This website contains privacy policies and other legal information for our mobil
 
 Privacy policies for our applications:
 
-- [App One](./policies/kattmatskollen)
+- [Kattmatskollen](./policies/kattmatskollen)
 - [App Two](./policies/app-two)
