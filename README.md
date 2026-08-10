@@ -1,5 +1,5 @@
-# App policies
+# Såsa Studios – App policies
 
-This repository contains publicly available privacy policies and legal information for my mobile applications.
+Privacy policies and legal information for Såsa Studios mobile applications.
 
-The policies are published using GitHub Pages.
+This repository contains the publicly available privacy policies for our apps.
