@@ -13,5 +13,5 @@ This website contains privacy policies and other legal information for our mobil
 
 Privacy policies for our applications:
 
-- [Kattmatskollen](/policies/kattmatskollen)
-- [App Two](./policies/app-two)
+- [Kattmatskollen]({{ "/policies/kattmatskollen" | relative_url }})
+- [App Two]({{ "/policies/app-two" | relative_url }})
