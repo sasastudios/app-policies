@@ -1,15 +1,15 @@
 ---
 layout: default
-title: App One – Privacy Policy
+title: Kattmatskollen – Privacy policy
 ---
 
-# Privacy Policy for App One
+# Privacy policy for Kattmatskollen
 
 **Last updated:** August 10, 2026
 
 ## Introduction
 
-This privacy policy explains how App One handles information when you use the application.
+This privacy policy explains how Kattmatskollen handles information when you use the application.
 
 ## Information We Collect
 
