@@ -1,3 +1,6 @@
 title: Sosa Studios
 description: Privacy policies for Sosa Studios mobile applications.
 theme: jekyll-theme-minimal
+
+baseurl: "/app-policies"
+url: "https://sasastudios.github.io"
