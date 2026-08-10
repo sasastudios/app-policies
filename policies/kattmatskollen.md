@@ -11,27 +11,35 @@ title: Kattmatskollen – Privacy policy
 
 This privacy policy explains how Kattmatskollen handles information when you use the application.
 
-## Information We Collect
+## Information we collect
 
-[Describe what information the app collects.]
+Kattmatskollen does not collect personal data such as names, email addresses, phone numbers, contacts, location, or payment information.
 
-## How We Use Information
+The app may request camera access only when you choose to scan a barcode. This access is used solely for barcode scanning. The app does not store or share photos, videos, or other media.
 
-[Describe how the collected information is used.]
+The app may store basic data locally on your device, such as app settings and food entries you have recorded while using the app.
 
-## Third-Party Services
+## How we use information
 
-[Describe any third-party services used by the app.]
+The information stored by the app is used only to provide the app's core functionality, such as saving your preferences and keeping track of food entries you have added.
 
-## Data Retention
+The app does not use this information for advertising, analytics, profiling, or sharing with third parties.
 
-[Describe how long information is retained.]
+## Third-party services
 
-## Children's Privacy
+Kattmatskollen does not use third-party analytics, advertising, or tracking services. The app does not send your personal data to third parties.
 
-[Describe whether the app is directed at children and how children's data is handled.]
+## Data retention
 
-## Changes to This Privacy Policy
+Data stored by the app is kept locally on your device. It remains available until it is deleted by you, the app is removed from the device, or the relevant local data is cleared.
+
+The app does not transmit this data to external servers or third-party services.
+
+## Children’s privacy
+
+Kattmatskollen is not directed at children, and it does not knowingly collect personal data from children.
+
+## Changes to this privacy policy
 
 We may update this privacy policy from time to time. Any changes will be published on this page with an updated revision date.
 
