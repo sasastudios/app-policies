@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Kattmatskollen – Privacy policy
+permalink: /policies/kattmatskollen/
 ---
 
 # Privacy policy for Kattmatskollen
