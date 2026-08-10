@@ -47,5 +47,5 @@ We may update this privacy policy from time to time. Any changes will be publish
 
 If you have questions about this privacy policy, please contact:
 
-**Sosa Studios**  
-**Email:** your-email@example.com
+**Såsa Studios**  
+**Email:** info.sasastudios@gmail.com
